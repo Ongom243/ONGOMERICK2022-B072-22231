@@ -1,0 +1,95 @@
+.two{
+    color:lightgreen;
+    display: flex;
+    justify-content: space-between;
+}
+.three{
+    padding-left: 35px;
+    font-size: 25px;
+}
+.four{
+    padding-top: 20px;
+    word-spacing: 20px;
+    padding-right: 80px;
+    font-size: 20px;
+}
+.six{width: 400px;
+    background-color: lightgreen;
+    font-size: 30px;
+    padding-right: 320px;
+    
+}
+.seven{
+    width: 700px;
+    background-color: black;
+    font-size: 20px;}
+.five{
+    color: white;
+    padding-top: 100px;
+    background: url(exam.jpg);
+    height: 400px;
+    padding-right: 300px;
+}
+.eight{
+    color: white;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    height: 120px;
+    background-color: lightgreen;
+}
+.ten{font-size: 20px;
+    padding-top: 45px;
+    padding-right: 400px;
+}
+.nine{font-size: 22px;
+    padding-left: 100px;
+    padding-top: 40px;
+}
+button{height: 50px;
+width: 200px;
+background-color: lightgreen;
+border-radius: 12px;
+color: white;
+font-size: 15px;
+}
+.twelve{
+    display: flex;
+    justify-content: space-between;
+}
+.forteen{
+    padding-right: 600px;
+}
+.thirteen{
+    border-radius: 5px;
+    border: 2px solid gray;
+}
+.twenty{
+    display: flex;
+    justify-content: space-between;
+}
+.twentitwo{
+    padding-right: 600px;
+}
+.twenthree{
+    display: flex;
+    justify-content: space-between;
+}
+.twenfiv{
+    padding-right: 500px;
+}
+.forty{
+    display: flex;
+    justify-content: space-between;
+}
+.fortytwo{
+    padding-right: 700px;
+}
+.fifty{color: white;
+    justify-content: space-between;
+    display: flex;
+    background-color: black;
+}
+.fiftwo{
+    
+}
